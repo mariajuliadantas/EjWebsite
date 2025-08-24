@@ -214,7 +214,7 @@ export function ContactSection() {
                   <MapPin className="h-5 w-5 text-primary mt-1" />
                   <div>
                     <div className="font-semibold">Localização</div>
-                    <div className="text-muted-foreground">Belo Horizonte, MG</div>
+                    <div className="text-muted-foreground">Recife, PE</div>
                   </div>
                 </div>
 
